@@ -17,7 +17,7 @@ An end-to-end HR data analysis project where I cleaned and analysed a dataset of
 - Employees with a NULL termination date were treated as currently active
 
 
-# Analysis — Questions Answered
+# Analysis - Questions Answered
 
 - 1. What is the gender breakdown of employees?
 - 2. What is the race/ethnicity breakdown?
