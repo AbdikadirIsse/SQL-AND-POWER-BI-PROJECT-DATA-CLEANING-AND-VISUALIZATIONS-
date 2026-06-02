@@ -8,6 +8,9 @@ An end-to-end HR data analysis project where I cleaned and analysed a dataset of
 - hr_employee_report.pbix - Power BI dashboard file
 - hr_employee_report.pdf - Exported dashboard (PDF)
 
+## Files Used
+- <a href="https://github.com/AbdikadirIsse/SQL-AND-POWER-BI-PROJECT-DATA-CLEANING-AND-VISUALIZATIONS-/blob/main/The%20Raw%20Data%20Used.xlsx">Raw Dataset</a>
+
 
 # Data Cleaning
 
