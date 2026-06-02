@@ -22,17 +22,17 @@ An end-to-end HR data analysis project where I cleaned and analysed a dataset of
 
 # Analysis — Questions Answered
 
-What is the gender breakdown of employees?
-What is the race/ethnicity breakdown?
-What is the age distribution of employees?
-How many employees work at headquarters vs remotely?
-What is the average length of employment for terminated employees?
-How does gender distribution vary across departments?
-What is the distribution of job titles across the company?
-Which department has the highest turnover rate?
-How are employees distributed across states?
-How has employee count changed over time (2000–2020)?
-What is the average tenure by department?
+- 1. What is the gender breakdown of employees?
+- 2. What is the race/ethnicity breakdown?
+- 3. What is the age distribution of employees?
+- 4. How many employees work at headquarters vs remotely?
+- 5. What is the average length of employment for terminated employees?
+- 6. How does gender distribution vary across departments?
+- 7 What is the distribution of job titles across the company?
+- 8. Which department has the highest turnover rate?
+9. How are employees distributed across states?
+  10. How has employee count changed over time (2000–2020)?
+- 11. What is the average tenure by department?
 
 
 # Power BI Dashboard
@@ -69,5 +69,5 @@ Built a two-page interactive dashboard in Power BI using the SQL query results o
 
 🛠 Tools Used
 
-MySQL Workbench
-Power BI
+- MySQL Workbench
+- Power BI
