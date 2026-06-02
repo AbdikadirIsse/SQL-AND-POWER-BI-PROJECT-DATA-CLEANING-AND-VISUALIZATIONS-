@@ -10,6 +10,7 @@ An end-to-end HR data analysis project where I cleaned and analysed a dataset of
 
 ## Files Used
 - <a href="https://github.com/AbdikadirIsse/SQL-AND-POWER-BI-PROJECT-DATA-CLEANING-AND-VISUALIZATIONS-/blob/main/The%20Raw%20Data%20Used.xlsx">Raw Dataset</a>
+- <a href="https://github.com/AbdikadirIsse/SQL-AND-POWER-BI-PROJECT-DATA-CLEANING-AND-VISUALIZATIONS-/blob/main/SQL%20Queries%20used%20to%20clean%20the%20Data.sql">SQL Queries</a>
 
 
 # Data Cleaning
