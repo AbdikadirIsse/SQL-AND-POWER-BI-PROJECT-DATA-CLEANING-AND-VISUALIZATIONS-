@@ -67,7 +67,7 @@ Built a two-page interactive dashboard in Power BI using the SQL query results o
 - NULL termination dates were treated as currently active employees
 
 
-🛠 Tools Used
+## Tools Used
 
 - MySQL Workbench
 - Power BI
