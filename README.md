@@ -28,10 +28,10 @@ An end-to-end HR data analysis project where I cleaned and analysed a dataset of
 - 4. How many employees work at headquarters vs remotely?
 - 5. What is the average length of employment for terminated employees?
 - 6. How does gender distribution vary across departments?
-- 7 What is the distribution of job titles across the company?
+- 7. What is the distribution of job titles across the company?
 - 8. Which department has the highest turnover rate?
-9. How are employees distributed across states?
-  10. How has employee count changed over time (2000–2020)?
+- 9. How are employees distributed across states?
+- 10. How has employee count changed over time (2000–2020)?
 - 11. What is the average tenure by department?
 
 
