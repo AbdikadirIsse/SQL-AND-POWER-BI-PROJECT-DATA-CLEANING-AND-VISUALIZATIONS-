@@ -6,6 +6,9 @@ An end-to-end HR data analysis project where I cleaned and analysed a dataset of
 - <a href="https://github.com/AbdikadirIsse/SQL-AND-POWER-BI-PROJECT-DATA-CLEANING-AND-VISUALIZATIONS-/blob/main/SQL%20Queries%20used%20to%20clean%20the%20Data.sql">SQL Queries</a>
 - <a href="https://github.com/AbdikadirIsse/SQL-AND-POWER-BI-PROJECT-DATA-CLEANING-AND-VISUALIZATIONS-/blob/main/POWER%20BI%20DASHBOARD%20-%20REPORT.pbix">PowerBI Report</a>
 
+<img width="761" height="440" alt="Dashboard Page 1" src="https://github.com/user-attachments/assets/9f3269be-2cf7-4fc3-a638-7ab8f853bb4f" />
+<img width="762" height="437" alt="Dashboard Page 2" src="https://github.com/user-attachments/assets/2f2541cd-77ca-4c1c-8ba1-c85fb3f27cf5" />
+
 # Data Cleaning
 
 - Renamed the ID column to employee_id for easier querying
