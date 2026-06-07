@@ -12,11 +12,11 @@ An end-to-end HR data analysis project where I cleaned and analysed a dataset of
 ## Data Cleaning
 
 - Renamed the ID column to employee_id for easier querying
-- Standardised inconsistent date formats in birthdate and hire_date — some values used forward slashes, others used hyphens, and were converted using STR_TO_DATE and DATE_FORMAT
+- Standardised inconsistent date formats in birthdate and hire_date - some values used forward slashes, others used hyphens, and were converted using STR_TO_DATE and DATE_FORMAT
 - Removed the timestamp and UTC value from termdate, keeping only the clean date
 - Altered all date columns from text to proper DATE data type using ALTER TABLE
 - Added a new age column calculated using TIMESTAMPDIFF between birthdate and current date
-- Checked for outliers in age — found unrealistic birth years such as 2067 resulting in negative ages, and excluded all records where age was below 18 (967 records affected)
+- Checked for outliers in age - found unrealistic birth years such as 2067 resulting in negative ages, and excluded all records where age was below 18 (967 records affected)
 - Employees with a NULL termination date were treated as currently active
 
 
