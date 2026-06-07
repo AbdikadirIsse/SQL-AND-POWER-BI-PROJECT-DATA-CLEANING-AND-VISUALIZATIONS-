@@ -1,4 +1,4 @@
-# SQL-AND-POWER-BI-PROJECT-DATA-CLEANING-AND-VISUALIZATIONS-
+## SQL-AND-POWER-BI-PROJECT-DATA-CLEANING-AND-VISUALIZATIONS-
 An end-to-end HR data analysis project where I cleaned and analysed a dataset of over 22,000 employee records using MySQL, then visualised the findings in Power BI.
 
 ## Files Included
@@ -9,7 +9,7 @@ An end-to-end HR data analysis project where I cleaned and analysed a dataset of
 <img width="761" height="440" alt="Dashboard Page 1" src="https://github.com/user-attachments/assets/9f3269be-2cf7-4fc3-a638-7ab8f853bb4f" />
 <img width="762" height="437" alt="Dashboard Page 2" src="https://github.com/user-attachments/assets/2f2541cd-77ca-4c1c-8ba1-c85fb3f27cf5" />
 
-# Data Cleaning
+## Data Cleaning
 
 - Renamed the ID column to employee_id for easier querying
 - Standardised inconsistent date formats in birthdate and hire_date — some values used forward slashes, others used hyphens, and were converted using STR_TO_DATE and DATE_FORMAT
@@ -20,7 +20,7 @@ An end-to-end HR data analysis project where I cleaned and analysed a dataset of
 - Employees with a NULL termination date were treated as currently active
 
 
-# Analysis - Questions Answered
+## Analysis - Questions Answered
 
 - 1. What is the gender breakdown of employees?
 - 2. What is the race/ethnicity breakdown?
@@ -35,10 +35,10 @@ An end-to-end HR data analysis project where I cleaned and analysed a dataset of
 - 11. What is the average tenure by department?
 
 
-# Power BI Dashboard
+## Power BI Dashboard
 Built a two-page interactive dashboard in Power BI using the SQL query results of the above 11 Questions exported as CSV files:
 
-## Page 1:
+### Page 1:
 
 - Card showing average length of employment
 - Bar chart - gender distribution
@@ -47,7 +47,7 @@ Built a two-page interactive dashboard in Power BI using the SQL query results o
 - Map - employee distribution across US states
 - Clustered column chart - race/ethnicity distribution
 
-## Page 2:
+### Page 2:
 
 - Clustered column chart - age group distribution
 - Clustered column chart - age distribution by gender
@@ -60,7 +60,7 @@ Built a two-page interactive dashboard in Power BI using the SQL query results o
 
 
 
-# Limitations
+## Limitations
 
 - Records with age below 18 were excluded due to unrealistic birth years found in the dataset, some employees had birth years as far as 2067, resulting in negative or impossible ages
 - Termination dates set in the future were excluded from termination-related analysis
